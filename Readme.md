@@ -1,4 +1,4 @@
-Cryptoman 1.2 by fr.Raphael Boralevi (inspired by https://devqa.io/encrypt-decrypt-data-python/)
+Cryptoman 1.2 by Dev-Ekla (inspired by https://devqa.io/encrypt-decrypt-data-python/)
 
 This version includes the extension CRYPTOMAIL v.1.1
 
