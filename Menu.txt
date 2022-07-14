@@ -1,0 +1,12 @@
+CryptoMan 1.1
+
+Main Menu:
+
+Do you want to:
+
+		type and encrypt a MAIL directly (CryptoMail 1.0) 	(M)
+                type a local message for encryption			(a)
+		encrypt a local file					(b)
+		encrypt a directory					(c)
+             	decrypt a local file					(d)
+		or decrypt a directory					(e)

@@ -1,0 +1,8 @@
+Encryption Key Loading Menu:
+
+Do you want to:
+
+        use an already existing secret.key file 			(s)
+        overwrite an existing secret.key file with a new key 		(ovw)
+        use another existing key file (type: namefile.key) 		(OF)
+	or create another key file 					(c)
