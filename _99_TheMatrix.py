@@ -54,39 +54,7 @@ def comparesup(a, b):
 
 randomlist = [r(compareinf(a, b), comparesup(a, b)), r(compareinf(c, d), comparesup(c, d)), r(compareinf(e,f),comparesup(e, f)), r(compareinf(g, h),comparesup(g,h)), r(compareinf(i,j),comparesup(i,j))]
 
-for i in range(100):
-    print(randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)])
-    time.sleep(0.02)
-for i in range(100):
-    print(randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)])
-    time.sleep(0.02)
-for i in range(100):
-    print(randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)])
-    time.sleep(0.02)
-for i in range(100):
-    print(randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)])
-    time.sleep(0.02)
-for i in range(100):
-    print(randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)])
-    time.sleep(0.02)
-for i in range(100):
-    print(randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)])
-    time.sleep(0.02)
-for i in range(100):
-    print(randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)])
-    time.sleep(0.02)
-for i in range(100):
-    print(randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)])
-    time.sleep(0.02)
-for i in range(100):
-    print(randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)])
-    time.sleep(0.02)
-for i in range(100):
-    print(randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)])
-    time.sleep(0.02)
-for i in range(100):
-    print(randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)])
-    time.sleep(0.02)
-for i in range(100):
-    print(randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)])
-    time.sleep(0.02)
+for j in range(12):
+    for i in range(100):
+        print(randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)],randomlist[r(1,5)])
+        time.sleep(0.02)
